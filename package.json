@@ -4,8 +4,13 @@
   "description": "Learning node and npm basics",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": ""
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "install": "^0.12.1"
+  }
 }
