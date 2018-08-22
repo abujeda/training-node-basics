@@ -11,6 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
+    "hapi": "^17.5.3",
     "install": "^0.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
   }
 }
